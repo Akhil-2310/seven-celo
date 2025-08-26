@@ -25,7 +25,7 @@ A decentralized dice game built on Celo where players can bet on dice sums and w
 - **Provably Fair**: All results are generated and verified on-chain
 
 ### 🔐 **Security & Identity**
-- **Self.xyz Integration**: Secure identity verification using passport
+- **Self Protocol Integration**: Secure identity verification using passport
 - **Smart Wallet Support**: Powered by Alchemy Account Kit
 - **Celo Network**: Fast, secure, and eco-friendly blockchain
 
@@ -39,11 +39,11 @@ A decentralized dice game built on Celo where players can bet on dice sums and w
 ## 🎲 How to Play
 
 ### 1. **Connect Your Wallet**
-- Click "Login" to connect your web3 wallet
+- Click "Login" make your account
 - Ensure you have CELO tokens for betting
 
 ### 2. **Verify Your Identity**
-- Complete Self.xyz verification using your passport
+- Complete Self Protocol verification using your passport
 - This ensures fair gameplay and prevents abuse
 
 ### 3. **Place Your Bet**
@@ -61,11 +61,11 @@ A decentralized dice game built on Celo where players can bet on dice sums and w
 
 ## 🏆 Betting Odds & Payouts
 
-| Bet Type | Win Condition | Payout Ratio | Example |
+| Bet Type | Win Condition | Example |
 |-----------|---------------|--------------|---------|
-| **Under 7** | Sum < 7 | 1:1 | Bet 10 CELO, win 20 CELO |
-| **Over 7** | Sum > 7 | 1:1 | Bet 10 CELO, win 20 CELO |
-| **Exact 7** | Sum = 7 | 4:1 | Bet 10 CELO, win 50 CELO |
+| **Under 7** | Sum < 7 | win 0.2 CELO |
+| **Over 7** | Sum > 7 | win 0.2 CELO |
+| **Exact 7** | Sum = 7 | in 0.5 CELO |
 
 ## 🛠️ Tech Stack
 
