@@ -110,7 +110,7 @@ export default function VerifyPage({ onVerificationComplete }: VerifyPageProps) 
                   Seven Up Seven Down
                 </Link>
                 <h1 className="text-2xl font-bold mt-4 mb-2 text-black">Verify Your Identity</h1>
-                <p className="text-black">Scan this QR code with the Self app to verify you're a real human</p>
+                <p className="text-black">Scan this QR code with the Self app to verify you&aposre a real human</p>
               </div>
 
               {!isVerified ? (
@@ -159,7 +159,7 @@ export default function VerifyPage({ onVerificationComplete }: VerifyPageProps) 
                     <span className="text-2xl text-white">✓</span>
                   </div>
                   <h2 className="text-xl font-bold mb-2 text-black">Verification Complete!</h2>
-                  <p className="text-black mb-6">Welcome to Seven Up Seven Down. You're now verified and can play the game.</p>
+                  <p className="text-black mb-6">Welcome to Seven Up Seven Down. You&aposre now verified and can play the game.</p>
                   
                   <button
                     onClick={handleContinue}
