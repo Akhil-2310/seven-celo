@@ -65,7 +65,7 @@ A decentralized dice game built on Celo where players can bet on dice sums and w
 |-----------|---------------|---------|
 | **Under 7** | Sum < 7 | win 0.2 CELO |
 | **Over 7** | Sum > 7 | win 0.2 CELO |
-| **Exact 7** | Sum = 7 | in 0.5 CELO |
+| **Exact 7** | Sum = 7 | win 0.5 CELO |
 
 ## 🛠️ Tech Stack
 
