@@ -74,7 +74,7 @@ export async function POST(req: NextRequest) {
     const selfBackendVerifier = new SelfBackendVerifier(
       "sevenupdown",
       "https://seven-celo.vercel.app/api/verify",
-      true, // dev mode
+      false, // dev mode
       AllIds,
       configStore,
       "uuid", // user ID type as string

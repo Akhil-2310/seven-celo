@@ -35,7 +35,6 @@ export default function VerifyPage({ onVerificationComplete }: VerifyPageProps) 
         endpointType: "https",
         userIdType: "uuid",
         userDefinedData: "Welcome to Seven Up Seven Down!",
-        devMode: true,
         disclosures: {
           minimumAge: 12,
           ofac: false,
