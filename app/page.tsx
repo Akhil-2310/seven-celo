@@ -5,7 +5,6 @@ import { useState, useEffect } from "react";
 import UserInfoCard from "./components/user-info-card";
 import LoginCard from "./components/login-card";
 import Header from "./components/header";
-import LearnMore from "./components/learn-more";
 import SevenUpDownGame from "./components/sevenupdowngame";
 import VerifyPage from "./components/VerifyPage";
 
