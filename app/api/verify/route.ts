@@ -73,7 +73,7 @@ export async function POST(req: NextRequest) {
 
     const selfBackendVerifier = new SelfBackendVerifier(
       "sevenupdown",
-      "https://7fddc95a167f.ngrok-free.app/api/verify",
+      "https://seven-celo.vercel.app/api/verify",
       true, // dev mode
       AllIds,
       configStore,

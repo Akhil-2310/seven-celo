@@ -29,7 +29,7 @@ export default function VerifyPage({ onVerificationComplete }: VerifyPageProps) 
         version: 2,
         appName: "Seven Up Seven Down",
         scope: "sevenupdown",
-        endpoint: "https://7fddc95a167f.ngrok-free.app/api/verify",
+        endpoint: "https://seven-celo.vercel.app/api/verify",
         logoBase64: "https://i.postimg.cc/mrmVf9hm/self.png",
         userId: newUserId,
         endpointType: "https",
